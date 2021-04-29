@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: Probably Serendipitous
-subtitle: 'Doing to Learn'
+subtitle: 'Random stuff I learn'
 
 design:
   background:
